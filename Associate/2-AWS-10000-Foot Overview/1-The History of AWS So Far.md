@@ -1,0 +1,15 @@
+## The History of AWS So Far
+- A Brief History Of AWS
+  - 2003 - Chris Pinkham & Benjamin Black present a paper on what Amazon’s own internal infrastructure should look like. They suggested selling it as a service and prepared a business case.
+  - SQS officially launched in 2004
+  - AWS Officially launched in 2006
+  - 2007 over 180,000 developers on the platform
+  - 2010 all of amazon.com moved over
+  - 2012 First re:Invent Conference
+  - 2013 Certifications Launched
+  - 2014 Committed to achieve 100% renewable energy usage for its global footprint
+  - 2015 AWS breaks out its revenue: $6 Billion USD per annum and growing close to 90% year on year
+  - 2016 Run rate of $13 billion USD
+  - 2017 AWS re:invent releases a host of Artificial Intelligent Services. Run rate hits $27 Billion USD.
+  - 2018 AWS launch Machine Learning Specialty Certs. Heavy focus on automating AI & ML.
+  - 2019 Alexa Specialty Beta Certificate Launched. 10 Certs!
