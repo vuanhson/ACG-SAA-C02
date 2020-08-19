@@ -12,7 +12,7 @@
 - Edge Locations are endpoints for AWS which are used for caching content. Typically this consists of CloudFront, Amazon’s Content Delivery Network (CDN)
   - There are many more Edge Locations than Regions. Currently there are over 150 Edge Locations.
 
-### What do I need to FOCUS on to pass my Solutions Architect Exam (You don't need to cover every single service):
+### What do I need to FOCUS on to pass my Solutions Architect Associate Exam (You don't need to cover every single service):
 ![Exam Services](images/ExamServices.png)
 
 ### Exam Tips
